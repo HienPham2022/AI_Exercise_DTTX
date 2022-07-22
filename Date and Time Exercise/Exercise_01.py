@@ -1,0 +1,7 @@
+#in ngày tháng hiện hành trong python
+from datetime import datetime
+
+import datetime
+print(datetime.datetime.now())
+
+print(datetime.datetime.now().time())
